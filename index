@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+	<head>
+	<meta charset="UTF-8">
+		<title>Emily Chhin | Digital Communications</title>
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+        <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+	</head>
+
+	<body>
+    	<div id="header">
+        
+<!-- LOGO -->
+        	<div id="branding">
+            	<h1><a href="colours.html">Emily Chhin</a></h1>
+            </div>
+            
+<!-- TOP HEADER -->
+            <div id="main-navigation">
+            	<ul>
+                	<li><a href="colours.html">Home</a></li>
+                    <li>About</li>
+                    <li>Portfolio</li>
+                    <li>Contact</li>
+                </ul>
+            </div>	
+       	</div>
+        
+<!-- MAIN CONTENT -->
+        <div id="main-content">
+        <img src="images/sunset.jpg">
+        	<div class="box1"></div>
+            <div class="box2"></div>
+            <div class="box3"></div>
+            <div class="box4"></div>
+
+        </div>
+          
+	</body>
+</html>
